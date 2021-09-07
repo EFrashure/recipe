@@ -1,2 +1,2 @@
 # recipe
-Collection of my coding recipes
+Collection of my cooking recipes
